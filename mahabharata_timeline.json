@@ -20,20 +20,46 @@
             }
         },
         {
-            "start_date": {
+            "start": {
                 "year": -3125
             },
             "text": {
                 "headline": "Pandavas and Kauravas Are Born",
-                "text": "The two royal families of Hastinapura are born \u2014 cousins destined for war."
+                "text": "The two royal families of Hastinapura are born cousins destined for war."
             },
             "media": {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mahabharata_families_chart.svg",
                 "caption": "Family tree of the Kuru dynasty"
             }
         },
+         {
+            "start": {
+                "year": -3125
+            },
+            "text": {
+                "headline": "Draupadi's Swayamvar",
+                "text": "Arjun participates and wins in draupadi's swayamvar."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mahabharata_families_chart.svg",
+                "caption": "Draupadi marries the pandavas"
+            }
+        },
+         {
+            "start": {
+                "year": -3125
+            },
+            "text": {
+                "headline": "Draupadi's Vastraharan",
+                "text": "Duryodhan plots a game of dice and takes everything away from the pandavas."
+            },
+            "media": {
+                "url": "C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-11-01 230305.png",
+                "caption": "The game of Dice also known as dyuta sabha"
+            }
+        },
         {
-            "start_date": {
+            "start": {
                 "year": -3102
             },
             "text": {
@@ -46,7 +72,7 @@
             }
         },
         {
-            "start_date": {
+            "start": {
                 "year": -3101
             },
             "text": {
@@ -55,9 +81,10 @@
             },
             "media": {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Krishna_and_Arjuna.jpg",
-                "caption": "End of Krishna\u2019s earthly life"
+                "caption": "End of Krishna earthly life"
             }
         }
     ]
 
 }
+
